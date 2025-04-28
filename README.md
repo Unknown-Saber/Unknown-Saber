@@ -1,10 +1,9 @@
-# Unknown Saber
-### I am currently working on advancing my career in Cybersecurity.
-### I will be creating tools and scripts that will be showcased here on this site!
-### Currently I mainly code in Python but I am working on branching out into other languages aswell.
-<!--
-**Unknown-Saber/Unknown-Saber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Unknown Saber
+## Hello I am Saber, I am currently working on advancing my career in Cybersecurity and learning Scripting/Coding.
+## I will be showcasing the things I create here on this site 
+## Currently I mainly code in Python but I am working on branching out into other languages aswell.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
