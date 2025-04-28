@@ -1,7 +1,9 @@
-## Hello I am Saber.
+## "Hello I'm Saber"
 I am currently working on advancing my career in Cybersecurity and learning Scripting/Coding.
+
 I will be showcasing the things I create here on this site 
-Currently I mainly code in Python but I am working on branching out into other languages aswell.
+
+I Currently mainly code in Python but I am working on branching out into other languages aswell.
 
 <!--
 Here are some ideas to get you started:
