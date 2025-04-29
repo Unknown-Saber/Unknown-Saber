@@ -2,7 +2,7 @@ Hello I'm **Saber**! I am currently working on advancing my career in Cybersecur
 
 I will be showcasing the things I create here on this site 
 
-I Currently mainly code in Python but I am working on branching out into other languages aswell.
+I currently mainly code in Python but I am working on branching out into other languages aswell.
 
 <!--
 Here are some ideas to get you started:
