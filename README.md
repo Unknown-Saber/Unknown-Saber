@@ -4,6 +4,15 @@ I will be showcasing the things I create here on this site
 
 I currently mainly code in Python but I am working on branching out into other languages aswell.
 
+## Currently enrolled in college for Cybersecurity and Networking
+
+## Work Experience
+- Freelance Code Projects
+  **[view source code here]**(https://github.com/Unknown-Saber)
+
+## Education
+Currently enrolled in college for Cybersecurity and Networking.
+
 <!--
 Here are some ideas to get you started:
 
