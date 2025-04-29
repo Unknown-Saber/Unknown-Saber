@@ -1,5 +1,9 @@
-title: ![image](docs/assets/SABER-LOGO2.png)
-logo: /docs/assets/SABER-LOGO2.png
+title:
+  logo:
+    images:
+      primary:
+        path: /docs/assets/SABER-LOGO2.png
+        alt: logo
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-Cayman
