@@ -6,7 +6,7 @@ I currently mainly code in Python but I am working on branching out into other l
 
 ## Work Experience
 - Freelance Code Projects
-  **[view source code here]**(https://github.com/Unknown-Saber)
+  [view source code here](https://github.com/Unknown-Saber)
 
 ## Education
 Currently enrolled in college for Cybersecurity and Networking.
