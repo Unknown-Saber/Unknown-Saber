@@ -5,7 +5,7 @@ I will be showcasing the things I create here on this site
 I currently mainly code in Python but I am working on branching out into other languages aswell.
 
 ## Work Experience
-- Freelance Code Projects
+__Freelance Code Projects__
   [view source code here](https://github.com/Unknown-Saber)
 
 ## Education
