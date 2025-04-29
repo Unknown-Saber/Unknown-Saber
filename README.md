@@ -1,6 +1,6 @@
 # UnknownSaber
-## ***"Hello I'm Saber"***
-I am currently working on advancing my career in Cybersecurity and learning Scripting/Coding.
+
+Hello I'm **Saber**! I am currently working on advancing my career in Cybersecurity and learning Scripting/Coding.
 
 I will be showcasing the things I create here on this site 
 
